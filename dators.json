@@ -1,0 +1,17 @@
+[
+ {
+  "Veids": "RAM",
+  "Modelis": "Crosair",
+  "Cena": 102.32
+ },
+ {
+  "Veids": "GPU",
+  "Modelis": "GeForce Nvidia",
+  "Cena": 980.67
+ },
+ {
+  "Veids": "CPU",
+  "Modelis": "AMD Ryzen",
+  "Cena": 112.3
+ }
+]
